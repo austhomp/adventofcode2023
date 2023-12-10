@@ -15,8 +15,8 @@ This year I'm using TypeScript and found a very nice AoC runner, thanks [caderek
 
 [![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/green)](src/day01)
 [![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/green)](src/day02)
-![Day](https://badgen.net/badge/03/%E2%98%86%E2%98%86/gray)
-![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/gray)
+[![Day](https://badgen.net/badge/03/%E2%98%85%E2%98%85/green)](src/day03)
+[![Day](https://badgen.net/badge/04/%E2%98%85%E2%98%85/green)](src/day04)
 ![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/07/%E2%98%86%E2%98%86/gray)
@@ -78,23 +78,23 @@ Both parts: 8.062ms
 
 ```
 Day 02
-Time part 1: 0.95ms
-Time part 2: 1.047ms
-Both parts: 1.996ms
+Time part 1: 0.967ms
+Time part 2: 0.988ms
+Both parts: 1.955ms
 ```
 
 ```
 Day 03
-Time part 1: -
-Time part 2: -
-Both parts: -
+Time part 1: 2.643ms
+Time part 2: 3.073ms
+Both parts: 5.716ms
 ```
 
 ```
 Day 04
-Time part 1: -
-Time part 2: -
-Both parts: -
+Time part 1: 1.192ms
+Time part 2: 1219.827ms
+Both parts: 1221.019ms
 ```
 
 ```
@@ -245,8 +245,8 @@ Both parts: -
 ```
 
 ```
-Total stars: 4/50
-Total time: 10.058ms
+Total stars: 8/50
+Total time: 1236.752ms
 ```
 
 <!--/RESULTS-->
